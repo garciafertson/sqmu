@@ -1,0 +1,9 @@
+name: sqmu
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - numpy
+  - python=2
+prefix: /home/jfgarcia/miniconda3/envs/sqmu
