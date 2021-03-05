@@ -37,5 +37,8 @@ def run_kmod_kmap(km_files,modlist,outname):
         for tax in tax_ls:
             f.write("%s" %tax)
             for module in module_ls:
-                f.write("\t%s" %table_dict[module,tax][0])
+                try:
+                    f.write("\t%s" %table_dict[module,tax][0])
+                except:
+                    f.write("\t0")
             f.write("\n")

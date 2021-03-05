@@ -1,0 +1,6 @@
+p_Proteobacteria
+k_Archaea
+p_Actinobacteria
+c_Gammaproteobacteria
+c_Deltaproteobacteria
+k_Bacteria

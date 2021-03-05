@@ -1,0 +1,6 @@
+M00175  Nitrogen fixation
+M00531  Assimilatory nitrate reduction
+M00530  Dissimilatory nitrate reduction
+M00529  Denitrification
+M00528  Nitrification
+M00804  Complete nitrification
